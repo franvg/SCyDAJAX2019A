@@ -1,0 +1,1 @@
+$('form').liga('AJAX', config);
